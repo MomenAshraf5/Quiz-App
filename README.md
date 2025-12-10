@@ -5,6 +5,8 @@ An interactive quiz application built with React to test your React knowledge. F
 ![React Quiz](https://img.shields.io/badge/React-19.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![Quiz App Banner](./Banar_Quiz_App.png)
+
 ## 🌟 Features
 
 - **15 React Questions** covering fundamental to advanced concepts
